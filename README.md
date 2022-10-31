@@ -27,7 +27,9 @@ HTML.
 
 CSS.
 
-Tailwind.
+TailwindCSS.
+
+Bootstrap.
 
 Javascript.
 
